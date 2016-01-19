@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Sam Dengler
+	email = fsd@amazon.com
+[credential]
+	helper = osxkeychain
